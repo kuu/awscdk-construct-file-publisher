@@ -7,7 +7,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '~5.4.0',
   name: 'awscdk-construct-file-publisher',
   projenrcTs: true,
-  repositoryUrl: 'https://github.com/miyazaqui/awscdk-construct-file-publisher.git',
+  repositoryUrl: 'https://github.com/kuu/awscdk-construct-file-publisher.git',
   keywords: [
     'cdk',
     'cdk-construct',
