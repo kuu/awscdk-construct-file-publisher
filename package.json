@@ -3,7 +3,7 @@
   "description": "AWS CDK Construct to upload local files to S3 and make them publicly available via CloudFront",
   "repository": {
     "type": "git",
-    "url": "https://github.com/miyazaqui/awscdk-construct-file-publisher.git"
+    "url": "https://github.com/kuu/awscdk-construct-file-publisher.git"
   },
   "scripts": {
     "build": "npx projen build",
